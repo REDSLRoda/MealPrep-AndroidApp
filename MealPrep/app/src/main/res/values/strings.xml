@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Meal Prep</string>
+    <string name="add_meals_to_db">Add Meals to DB</string>
+    <string name="search_for_meals_by_ingredient">Search for Meals By Ingredient</string>
+    <string name="search_for_meals">Search for Meals</string>
+    <string name="retrieve_meal">Retrieve Meal</string>
+    <string name="save_to_database">Save to Database</string>
+    <string name="search">Search</string>
+    <string name="MealPrep">MealPrep</string>
+    <string name="tomato">tomato</string>
+    <string name="search_meal">Search meal</string>
+    <string name="search_for_meals_by_name">searchbyname</string>
+    <string name="show_meal">Show meal</string>
+    <string name="chicken">chicken</string>
+    <string name="search_by_name">Search By Name</string>
+    <string name="show_meals">Show meal</string>
+    <string name="chickens">chicken</string>
+    <string name="soup">Soup</string>
+    <string name="find_meal">Find Meal</string>
+    <string name="find_a_meal">Find a Meal</string>
+    <string name="soups">Soup</string>
+</resources>
